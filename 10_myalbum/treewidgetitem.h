@@ -1,0 +1,17 @@
+#ifndef TREEWIDGETITEM_H
+#define TREEWIDGETITEM_H
+
+#include<QTreeWidgetItem>
+class TreeWidgetItem : public QTreeWidgetItem
+{
+public:
+    TreeWidgetItem(TreeWidgetItem *parent, int type = Type);
+    explicit TreeWidgetItem(QTreeWidget *view, int type = Type);
+    void setPre(TreeWidgetItem* item);
+    void setNext(TreeWidgetItem* item);
+private:
+    TreeWidgetItem* _pre;
+    TreeWidgetItem* _next;
+};
+
+#endif // TREEWIDGETITEM_H
