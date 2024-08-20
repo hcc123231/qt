@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>4f71917b12b241a8a18c69d60d52c7b1.png</file>
+        <file>6a9c6d12bd6c4a53b27e4cd35dfc8b3b.png</file>
+        <file>97ceada96bdf445fbf955814b2b703aa.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
