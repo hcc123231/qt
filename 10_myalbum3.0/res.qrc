@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>4f71917b12b241a8a18c69d60d52c7b1.png</file>
+        <file>6a9c6d12bd6c4a53b27e4cd35dfc8b3b.png</file>
+        <file>97ceada96bdf445fbf955814b2b703aa.png</file>
+        <file>style.qss</file>
+        <file>bc892dda8bfa486d927d5cca73d5ed18.png</file>
+        <file>c9601c011a794930bf44d6d9c2ad5a23.png</file>
+        <file>8824274a591348f38dc73d059c66a03f.png</file>
+        <file>e0a07cd80e09495ea59e715ad48eee7a.png</file>
+        <file>c9645dcdfeef4c2692d2f1ab71b50295.png</file>
+        <file>672e99dc569a4bd397bf6ef38624f59c.png</file>
+        <file>a490c5ef59684e918fb1705b1dc1ce83.png</file>
+        <file>7a7cadbdc5804387a0af64441d540856.png</file>
+        <file>71f0e1cfea8f4fafbf0051ca362b9a5f.png</file>
+        <file>b8683a4f8d1643fd8a9fed80c105472c.png</file>
+        <file>aa05e798e5234e54a14eebe7e25becee.png</file>
+        <file>694dff865c944690849be1b904505db7.png</file>
+    </qresource>
+</RCC>
