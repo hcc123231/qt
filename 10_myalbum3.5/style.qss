@@ -1,0 +1,60 @@
+#MainWindow{
+    background-color:rgb(77,77,77);
+}
+#menuBar{
+    background-color:rgb(66,66,66);
+    border:1px solid white;
+    color:white;
+}
+#frame{
+    border:1px solid white;
+    background-color:rgb(77,77,77);
+    color:white;
+}
+#treeWidget{
+    background-color:rgb(77,77,77);
+    border:0px;
+    color:white;
+}
+#lab_lst_title{
+    border-bottom:1px solid white;
+    border-top:1px solid transparent;
+    border-left:1px solid transparent;
+    border-right:1px solid transparent;
+    color:white;
+    font-size:12pt;
+}
+QScrollBar:vertical {
+    /* 垂直滚动条的样式设置 */
+    border: 1px solid rgb(66,66,66);
+    background:rgb(66,66,66);
+
+    margin: 20px 0px 20px 0px;
+}
+QScrollBar::handle:vertical {
+    /* 垂直滚动条滑块的样式设置 */
+    background: rgb(66,66,66); /* 滑块的背景颜色 */
+    min-height: 30px; /* 滑块的最小高度，可以根据需要调整 */
+}
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: rgb(77,77,77); /* 滑块轨道的背景色 */
+}
+#listWidget{
+    border:0px;
+
+}
+#listWidget::item:selected {
+    border:2px solid white;
+}
+#stop_btn{
+    border:0px;
+}
+#close_btn{
+    border:0px;
+}
+#speed_btn{
+    border:0px;
+}
+QMenuBar::item:selected {
+    background-color: #3399FF; /* 选中时的背景色，这里用蓝色作为示例 */
+}
