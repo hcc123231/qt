@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>citycode (1).json</file>
+        <file alias="background.png">R-C.png</file>
+        <file alias="dayu.png">771ffd03ae1a4bfcb1141a5dbaadc1a3.png</file>
+        <file alias="pm25.png">556b18599e944d869da954254fd64212.png</file>
+        <file alias="fengli.png">ad70c878f300446fb38baf674bf5ddff.png</file>
+        <file alias="zhiliang.png">e1378c829afd4432b3b09e52e0698e04.png</file>
+        <file alias="shidu.png">4932507812c3484c8336012738174cba.png</file>
+        <file alias="shidu2.png">9eb683604d3544a2a0226fd3c1e35ecc.png</file>
+        <file alias="shidu3.png">74e7464b9e7d4c6b9d62bec04c7cb598.png</file>
+        <file alias="leidianyu.png">0fc1833a29054096b9a403b0f78d5950.png</file>
+        <file alias="dongyu.png">45b39c568d1741bbb95c16b825e1e84b.png</file>
+        <file alias="duoyun.png">816edb6b5d644c5397ecbfd6a428aaec.png</file>
+        <file alias="shachenbao.png">2998f120c2bb4b65855547a7100f14b1.png</file>
+        <file alias="qing.png">96856528722f4272984af246f7b1b585.png</file>
+        <file alias="wumai.png">a0e44c286d3a4c2ea1627c96df26e950.png</file>
+        <file alias="baoyu.png">aee0cb5ed79949d494ee91eae7582724.png</file>
+        <file alias="fucehn.png">b82a22601c504702a07595c88a8d2c60.png</file>
+        <file alias="daxue.png">d03cbc742e914376a7e6713672204e2f.png</file>
+        <file alias="xiaoyu.png">89abf6d1415d4b9588344bb64e00a56d.png</file>
+        <file alias="close.png">2fe5108841604d05a00f7a8a3aaaf48a.png</file>
+        <file alias="yin.png">4a74fed546144a579962d8dc05b9d470.png</file>
+        <file alias="shidu4.png">2e86443ee4a041e1afbb565bb5b36e48.png</file>
+        <file alias="mini.png">0503ade6135b4f25924c7591980cd9c0.png</file>
+        <file alias="mini2.png">ee795b1c2a0b4d5da77dea5b53fac27b.png</file>
+        <file alias="weather.png">066ed88ba58440c694131d517969209a.png</file>
+    </qresource>
+</RCC>
